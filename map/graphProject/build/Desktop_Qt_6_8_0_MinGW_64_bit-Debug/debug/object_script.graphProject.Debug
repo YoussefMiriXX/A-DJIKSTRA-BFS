@@ -1,0 +1,10 @@
+debug/vertex.o
+debug/edge.o
+debug/graph.o
+debug/main.o
+debug/QVertex.o
+debug/QGraph.o
+debug/QEdge.o
+debug/commify.o
+debug/mainwindow.o
+debug/moc_mainwindow.o

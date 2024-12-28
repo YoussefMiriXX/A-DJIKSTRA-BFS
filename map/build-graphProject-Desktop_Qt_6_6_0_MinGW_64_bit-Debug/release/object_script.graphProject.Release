@@ -1,0 +1,10 @@
+release/vertex.o
+release/edge.o
+release/graph.o
+release/main.o
+release/QVertex.o
+release/QGraph.o
+release/QEdge.o
+release/commify.o
+release/mainwindow.o
+release/moc_mainwindow.o
